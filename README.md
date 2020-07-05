@@ -1,5 +1,5 @@
 # Power-Predictor
-This is a Web App made by Team </b>Epoch!
+This is a Web App made by Team </b> Epoch!
 ## Tech Stack:
 1. HTML-CSS, Js for building Front end templates
 2. Flask for Backend of the application
